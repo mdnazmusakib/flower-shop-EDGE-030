@@ -66,6 +66,9 @@
     font-weight: 400;
     line-height: 30px;
     margin-top: 24px;
+    margin-left: 350px;
+    margin-right: 350px;
+    /* background-color: red; */
 }
 .flower-img{
     display: flex;
@@ -112,4 +115,107 @@ font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
 }
+
+/* feature section end */
+
+/* advertisment section start */
+
+.adv-info{
+    margin-top: 128px;
+    margin-left: 35px;
+    margin-right: 35px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    
+}
+.adv1-im,.adv2-im,.adv3-im{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 24px;
+    
+}
+.adv1,.adv2,.adv3{
+    padding-top: 86px;
+    padding-bottom: 86px;
+}
+.img-inf{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+/* advertisment end */
+
+/* sign up starts */
+.sign-up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 128px;
+    text-align: center;
+    gap: 186px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 150px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s-title{
+    color: #272727;
+
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.red{
+    color: #E55473;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.s-desc{
+    color: rgba(39, 39, 39, 0.60);
+
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.s-btn{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+}
+
+/* sign up endss */
 
