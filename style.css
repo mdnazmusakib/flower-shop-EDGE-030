@@ -309,13 +309,14 @@ margin-top: 16px;
     background: #FFF;
     color: rgba(39, 39, 39, 0.60);
     padding: 22px;
-    /* text-align: center; */
     font-family: Lato;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
     width: 50vw;
+    border: none;
+    margin-right: 15px;
 }
 .d-btn{
     border-radius: 8px;
