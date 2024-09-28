@@ -268,3 +268,66 @@ margin-bottom: 48px;
 
 /* instragram section donee */
 
+/* details section startss */
+.details{
+    margin-top: 185px;
+    border-radius: 8px;
+    background-image: url("Flower Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    padding: 90px 287px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.d-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.d-desc{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 16px;
+}
+.d-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;
+}
+.d-inp{
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    padding: 22px;
+    /* text-align: center; */
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 50vw;
+}
+.d-btn{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    padding: 19px 30px;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+}
+
+/* details section endss */
