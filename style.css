@@ -1,0 +1,41 @@
+.head{
+    display: flex;
+    gap: 97px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.h-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 160px;
+    margin-top: 120px;
+}
+.h-desc{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-left: 160px;
+    margin-top: 32px;
+}
+.h-btn{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 160px;
+    margin-top: 32px;
+}
+.image img{
+    height: 100vh;
+}
